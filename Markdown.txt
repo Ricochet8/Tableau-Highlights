@@ -1,0 +1,9 @@
+
+https://public.tableau.com/profile/elizabeth.shaw#!/vizhome/NYC_bike_eas/BikeRiderPopularity
+
+New York City Bike Rider Popularity by Usertype and Gender: Below a station map is shown by popularity of bike-pickup at certain stations with Pershing N Square and 8th Ave at 31st being the most popular.  A map layer has been added to show the average age  of the population by zip code around the bike pickup stations. The data is the story is from each month of the past calendar year, sampled at 10% of the month's dataset for that month. 
+Female ridership of the NYC bike program is a bit perplexing since such a low proportion of riders are female compared to a city proportion of women outnumbering men at 53% of the general population of the city. The customer class of rider (assumed to be aimed at one-time riders such as tourists) is particularly low.
+Some of this could be the general less-suitability of female professional attire (for suscribers) towards bike-riding, both in service industry and white collar jobs. Also, bike riding can also be seen as more dangerous and unreliable form of everyday
+The stations below are colored so that the average age of the typical pickup-bike rider is represented. The pickup age spikes around central park , topping out at over 45 years. The outer bouroughs have a younger pickup age. For investigation of the future, we should look at trip duration time by pickup station. 
+Both in unique bike trips and total duration of rides by average age, the 20-30 age range has the most riders and trip duration in the program. 
+Efforts to increase ridership over the age of 40 might encounter such problems as mobility, familial responsibilities, and seasonality in ridership. 
